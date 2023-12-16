@@ -1,5 +1,5 @@
 # Vegetation-Monitoring-System
-// The Arduino code for the plant monitoring system is provided below.
+// The explanation of the arduino code for the plant monitoring system is provided below.
 
 # Included Libraries:
 SPI.h: Arduino SPI library.
